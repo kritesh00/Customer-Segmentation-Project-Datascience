@@ -1,5 +1,3 @@
-# README.md
-
 ## Customer Segmentation using K-Means Clustering
 
 This project is an interactive web application for customer segmentation using K-Means clustering. Built with Streamlit, the app allows users to upload customer datasets and visualize clusters dynamically.
